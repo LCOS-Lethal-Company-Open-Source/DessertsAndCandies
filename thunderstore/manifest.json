@@ -1,0 +1,10 @@
+{
+    "name": "Desserts And Candies",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/LCOS-Lethal-Company-Open-Source/LCOS-DessertsAndCandies",
+    "description": "Mod that adds Dessert and Candy scraps into the game. Mod by @akkilin on github. Default icon by @lilujk on github. Current Scraps: Spiral Lollipop, Candy Corn, Marshmello, Fancy Flan, Gingerbread Man, Candy Cane, Cupcake, Icecream, Jello",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "jockie-LethalExpansionCore-1.3.15"
+    ]
+}

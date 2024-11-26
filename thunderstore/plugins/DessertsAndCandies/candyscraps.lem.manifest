@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 3334230370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cff6664dd9683c87f4702074a4acb701
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f5c766fa28e2997588b8de194f729fce
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cff6664dd9683c87f4702074a4acb701
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.AudioClipInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+Assets:
+- Assets/Mods/CandyScraps/Items/Scraps/lcosspirallp/SpiralLollipopweapon.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/lcosJelloGreen.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcosfancyflan/lcosfancyflan.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcosmarshmello/marshmallow.fbx
+- Assets/Mods/CandyScraps/ModManifest.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcosicecream/lcosicecream.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcosicecream/IceCreamCone.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/lcosJelloRed.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcosspirallp/lcosSpiralLP.prefab
+- Assets/Mods/CandyScraps/Audio/candycorndrop.mp3
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscandycorn/candycorn.png
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/lcosjellogreen.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscandycane/lcoscandycane.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcosmarshmello/lcosMarshmello.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcosgingerbread/lcosgingerbread.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcosgingerbread/GingerBreadMan.fbx
+- Assets/Mods/CandyScraps/AssetBank.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscocoabean/lcoscocoabean.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/lcosjellored.asset
+- Assets/Mods/CandyScraps/Audio/candycornpickup.mp3
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscupcake/lcosCupcake.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcosicecream/lcosIceCream.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/lcosjellopink.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/jellored.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscandycorn/lcosCandyCorn.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscandycorn/lcoscandycorn.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscocoabean/cocoabean.png
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscupcake/cupcake.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscandycane/lcosCandyCane.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcosfancyflan/lcosFancyFlan.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcosspirallp/lcosspirallp.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscocoabean/lcosCocoaBean.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscandycorn/candycorn.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcosmarshmello/lcosmarshmello.asset
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscocoabean/cocoaBean.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/lcosJelloPink.prefab
+- Assets/Mods/CandyScraps/Audio/discord-notification.mp3
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscandycane/candycane.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcoscupcake/lcoscupcake.asset
+- Assets/Mods/CandyScraps/Audio/lick.mp3
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/jello.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcosgingerbread/lcosGingerBread.prefab
+- Assets/Mods/CandyScraps/Items/Scraps/lcosfancyflan/FancyFlan.fbx
+- Assets/Mods/CandyScraps/Items/Scraps/lcosjello/jellogreen.fbx
+Dependencies:
+- C:/Users/akkis/Downloads/LethalSDK_v1.3.43/LethalSDK_Project/LethalSDK_Project/Assets/AssetBundles/lethalexpansion.lem
